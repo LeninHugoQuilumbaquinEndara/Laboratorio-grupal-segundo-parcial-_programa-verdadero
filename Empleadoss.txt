@@ -1,0 +1,6 @@
+Número de empleados igresados: 1
+Empleado No.1
+Nombre de empleado: d
+Fecha de nacimiento: 14/12/2005
+Edad: 15 años.
+

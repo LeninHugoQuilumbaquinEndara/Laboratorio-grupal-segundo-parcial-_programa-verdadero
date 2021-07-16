@@ -1,0 +1,11 @@
+Número de empleados igresados: 2
+Empleado No.1
+Nombre de empleado: william
+Fecha de nacimiento: 5/5/2000
+Edad: 21 años.
+
+Empleado No.2
+Nombre de empleado: aby
+Fecha de nacimiento: 26/3/2011
+Edad: 10 años.
+
